@@ -20,8 +20,7 @@ $(function () {
 	 */
 	
 	$.backstretch([
-		"assets/img/background/bg2.jpg"
-		
+		"assets/img/background/family.jpg"
 	], {duration: 3800, fade: 1500});
 	
 	
