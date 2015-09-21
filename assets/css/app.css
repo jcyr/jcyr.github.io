@@ -166,7 +166,7 @@ a:after {
 .section {
   z-index: 2000;
   padding: 50px 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.75);
 }
 .section-title {
   margin: 0 0 20px;
